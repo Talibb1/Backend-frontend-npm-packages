@@ -1,18 +1,37 @@
-# Backend-frontend-npm-packages
-
+# Important Backend & frontend npm-packages
 
 ## Express.js Backend npm packages
 
 ## Install Express
-##### Run the server in development mode
+##### Web application framework for Node.js
 ```ssh
 npm i express
 ```
 ```ssh
 npm i express@5.0.0-beta.1  
 ```
-## Running Tests
-##### Run the server in development mode
+## Install EJS
+##### Embedded JavaScript templating for generating dynamic HTML pages
 ```ssh
-$ yarn dev
+npm i ejs
+```
+## Install EJS
+##### Embedded JavaScript templating for generating dynamic HTML pages
+```ssh
+npm i ejs
+```
+## Install EJS
+##### Embedded JavaScript templating for generating dynamic HTML pages
+```ssh
+npm i ejs
+```
+## Install EJS
+##### Embedded JavaScript templating for generating dynamic HTML pages
+```ssh
+npm i ejs
+```
+## Install EJS
+##### Embedded JavaScript templating for generating dynamic HTML pages
+```ssh
+npm i ejs
 ```
