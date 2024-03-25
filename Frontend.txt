@@ -1,0 +1,32 @@
+
+
+              npm run dev 
+npx create-react-app my-app  // old version also depreciated
+npm create vite@latest
+npm i axios
+npm i react-router-dom
+npm i prop-types
+npm i react-bootstrap
+npm i react-toastify
+npm i formik
+npm i yup
+npm i react-virtualized
+npm i @react-spring/web
+
+npm i react-hook-form
+npm i redux
+npm i react-redux // old
+npm i @reduxjs/toolkit
+npm i redux-saga
+npm i redux-thunk
+npm install next@latest react@latest react-dom@latest
+
+
+npm install @mui/material @emotion/react @emotion/styled
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+
+
+npm i @reduxjs/toolkit react-redux axios

@@ -1,0 +1,25 @@
+
+
+npm i express
+npm i mongoose
+npm i mongodb
+npm i nodemon
+npm i nodemailer
+npm i ejs
+npm i express-generator
+npm i cors
+npm i body-parser
+npm i jsonwebtoken
+npm i bcrypt
+npm i crypto-js
+npm i dotenv
+npm i jsonwebtoken
+npm i nanoid
+npm i uuid
+npm i cookie-parser
+npm i express-session
+npm i multer
+
+npm i sequelize
+npm i mysql2
+npm i mysql
