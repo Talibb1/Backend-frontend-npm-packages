@@ -1,32 +1,132 @@
 
 
               npm run dev 
+              npm run build
+              npm run preview
+              npm run test
+
 npx create-react-app my-app  // old version also depreciated
 npm create vite@latest
-npm i axios
-npm i react-router-dom
-npm i prop-types
-npm i react-bootstrap
-npm i react-toastify
-npm i formik
-npm i yup
-npm i react-virtualized
-npm i @react-spring/web
+npm install next@latest react@latest react-dom@latest
+gatsby 
 
-npm i react-hook-form
+             *  Global State Management Packages *
 npm i redux
 npm i react-redux // old
 npm i @reduxjs/toolkit
 npm i redux-saga
 npm i redux-thunk
-npm install next@latest react@latest react-dom@latest
+npm i redux-persist
+npm i mobx
+npm i zustand
+npm i recoil
+npm i context
 
+             *  Sever State Management Packages *
+npm i react-query
+npm i SWR
 
-npm install @mui/material @emotion/react @emotion/styled
+             * React Routing Packages *
+npm i react-router-dom
+npm i universal-router
+npm i @reach/router
+npm i connected-react-router
+npm i react-router-static
 
+             *  HTTP Client Packages *
+npm i axios
+npm i apisauce
+npm i fetch-react
+npm i superagent
+
+             *  CSS in JavaScript Libraries *
+npm i styled-components
 npm install -D tailwindcss
-npx tailwindcss init
+npm i @emotion/css
+npm i css-loader
+npm i radium
+
+             * React Form Handling Packages *
+npm i formik
+npm i react-hook-form
+npm i final-form
+npm i react-forms
+npm i redux-form
+
+             * React form validate Packages *
+npm i yup
+npm i zod
+npm i validator
+npm i joi
+
+             * React Animation Packages *
+npm i @react-spring/web
 
 
+             * UI Component Libraries and Packages *
+npm install @mui/material @emotion/react @emotion/styled
+npm install antd
+npm i semantic-ui-react
+npm i bootstrap
+npm i react-bootstrap
+npm i office-ui-fabric-react
+npm i reactstrap
+npm i @blueprintjs/core
+npm i @chakra-ui/react
+npm i grommet
+npm i evergreen-ui
 
-npm i @reduxjs/toolkit react-redux axios
+             * Other UI component libraries for React *
+npm i react
+npm i react-dom
+npm i create-react-app
+npm i react-scripts
+npm i react-spinners
+npm i react-custom-scrollbars
+npm i react-dropdown
+npm i react-collapsible
+npm i react-calendar
+npm i react-datepicker
+npm i react-table
+npm i react-grid-layout
+
+             * Ceate React Documentation Packages *
+
+npm i react-styleguidist
+npm i js-docs 
+npm i react-docz
+
+             *React Long List Render Packages *
+
+             *React Code Quality Tool Packages *
+
+             *React Building sharable components Packages *
+
+             *React Multi-Language Support Packages *
+npm i react-i18next
+npm i i18next
+npm i react-intl
+
+             *React Multi-Language Support Packages *
+npm i react-toastify
+npm i react-hot-toast
+npm i Sonner
+npm i notistack
+npm i react-notification-system
+npm i react-toast-notifications
+npm i reapop
+npm i react-notifications-component
+npm i react-notification
+npm i cogo-toast
+npm i react-s-alert
+npm i myt-react-notify
+npm i react-redux-toastr
+npm i notiflix
+
+npm i webpack
+npm i webpack webpack-cli --save-dev
+npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+
+
+npm i prop-types
+npm i react-virtualized
