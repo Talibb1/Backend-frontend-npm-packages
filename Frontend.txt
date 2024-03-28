@@ -1,5 +1,3 @@
-
-
               npm run dev 
               npm run build
               npm run preview
@@ -10,21 +8,29 @@ npm create vite@latest
 npm install next@latest react@latest react-dom@latest
 gatsby 
 
-             *  Global State Management Packages *
-npm i redux
-npm i react-redux // old
+             *  Global / client State Management Packages *
 npm i @reduxjs/toolkit
-npm i redux-saga
-npm i redux-thunk
-npm i redux-persist
+npm i react-redux // old
 npm i mobx
 npm i zustand
-npm i recoil
 npm i context
+npm i redux
+npm i redux-persist
+npm i recoil
 
              *  Sever State Management Packages *
+npm i redux-saga
+npm i redux-thunk
 npm i react-query
-npm i SWR
+npm i @apollo/client
+npm i swr
+npm i @reduxjs/toolkit
+
+             *  HTTP Client Packages *
+npm i axios
+npm i apisauce
+npm i fetch-react
+npm i superagent
 
              * React Routing Packages *
 npm i react-router-dom
@@ -32,12 +38,6 @@ npm i universal-router
 npm i @reach/router
 npm i connected-react-router
 npm i react-router-static
-
-             *  HTTP Client Packages *
-npm i axios
-npm i apisauce
-npm i fetch-react
-npm i superagent
 
              *  CSS in JavaScript Libraries *
 npm i styled-components
@@ -56,11 +56,30 @@ npm i redux-form
              * React form validate Packages *
 npm i yup
 npm i zod
+npm i prop-types
 npm i validator
 npm i joi
 
              * React Animation Packages *
 npm i @react-spring/web
+npm i gsap
+npm i framer-motion
+npm i remotion
+npm i react-motion
+npm i react-move
+npm i react-awesome-reveal
+
+             * React 3D-Animation Packages *
+npm i three
+npm i @react-three/fiber
+npm i animejs
+npm i @sketchfab/viewer-api
+
+
+             * React Animate on Scroll Packages *
+npm i aos
+npm i scrollmagic
+npm i lax.js
 
 
              * UI Component Libraries and Packages *
@@ -72,6 +91,7 @@ npm i react-bootstrap
 npm i office-ui-fabric-react
 npm i reactstrap
 npm i @blueprintjs/core
+npm i @ant-design/react
 npm i @chakra-ui/react
 npm i grommet
 npm i evergreen-ui
@@ -91,23 +111,34 @@ npm i react-table
 npm i react-grid-layout
 
              * Ceate React Documentation Packages *
-
 npm i react-styleguidist
 npm i js-docs 
+npm i @storybook/react
+npm i react-docgen
 npm i react-docz
 
              *React Long List Render Packages *
 
+npm i react-window    (recommended for new projects)
+npm i react-virtualized  (legacy applications )
+npm i react-infinite-scroll-component
+npm i react-slick
+npm i react-custom-scrollbars
+
              *React Code Quality Tool Packages *
 
+
              *React Building sharable components Packages *
+npm i webpack
+npm i webpack webpack-cli --save-dev
+npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
 
              *React Multi-Language Support Packages *
 npm i react-i18next
 npm i i18next
 npm i react-intl
 
-             *React Multi-Language Support Packages *
+             *React Notification Packages *
 npm i react-toastify
 npm i react-hot-toast
 npm i Sonner
@@ -122,11 +153,3 @@ npm i react-s-alert
 npm i myt-react-notify
 npm i react-redux-toastr
 npm i notiflix
-
-npm i webpack
-npm i webpack webpack-cli --save-dev
-npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
-
-
-npm i prop-types
-npm i react-virtualized
