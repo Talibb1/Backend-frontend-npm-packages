@@ -8,6 +8,7 @@ npm create vite@latest
 npm install next@latest react@latest react-dom@latest
 gatsby 
 
+
              *  Global / client State Management Packages *
 npm i @reduxjs/toolkit
 npm i react-redux // old
@@ -80,7 +81,6 @@ npm i @sketchfab/viewer-api
 npm i aos
 npm i scrollmagic
 npm i lax.js
-
 
              * UI Component Libraries and Packages *
 npm install @mui/material @emotion/react @emotion/styled
