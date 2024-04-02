@@ -7,6 +7,3 @@
 ```ssh
 npm i express
 ```
-```ssh
-npm i express@5.0.0-beta.1  
-```
